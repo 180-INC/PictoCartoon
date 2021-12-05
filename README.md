@@ -1,6 +1,6 @@
 # Change Pic to Cartoon
 
-Deep learning algorithm using deep learning libary to change picture to a cartooned format.
+Deep learning algorithm using python libraries to change picture to a cartooned format.
 
 # Libaries Used
 1. cv2 for image processing
